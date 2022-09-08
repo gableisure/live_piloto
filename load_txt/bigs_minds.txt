@@ -1,0 +1,16 @@
+Nome|Sobrenome|Data de nascimento|CPF|Telefone|E-mail|Link para pesquisa
+ Charles|Babbage|26/12/1791|821.179.910-33|(11) 3500-7847|charles@alienigenadev.com|https://pt.wikipedia.org/wiki/Charles_Babbage
+Ada|Lovelace|10/12/1815|084.976.980-96|(84) 3652-7489|ada@alienigenadev.com|https://pt.wikipedia.org/wiki/Ada_Lovelace
+George|Boole |02/11/1815|823.974.040-52|(91) 3742-7372|george@alienigenadev.com|https://pt.wikipedia.org/wiki/George_Boole
+Konrad|Zuse |22/06/1910|213.978.560-68|(41) 3844-6552|konrad@alienigenadev.com|https://pt.wikipedia.org/wiki/Konrad_Zuse
+John|von Neumann|28/12/1903|731.604.820-49|(49) 3149-7834|john@alienigenadev.com|https://pt.wikipedia.org/wiki/John_von_Neumann
+Grace|Hopper|09/12/1906|628.334.450-08|(75) 3588-2768|grace@alienigenadev.com|https://pt.wikipedia.org/wiki/Grace_Hopper
+Alan|Mathison Turing|23/06/1912|357.478.780-42|(89) 2263-9238|alan@alienigenadev.com|https://pt.wikipedia.org/wiki/Alan_Turing
+Joseph |Carl Robnett Licklider|11/03/1915|569.666.870-49|(98) 3726-4685|joseph@alienigenadev.com|https://pt.wikipedia.org/wiki/Joseph_Carl_Robnett_Licklider
+Timothy |John Berners-Lee|08/06/1955|926.033.310-51|(83) 3603-7522|timothy@alienigenadev.com|https://pt.wikipedia.org/wiki/Tim_Berners-Lee
+Blaise |Pascal|19/08/1623|866.624.610-32|(95) 3493-4924|blaise@alienigenadev.com|https://pt.wikipedia.org/wiki/Blaise_Pascal
+Steve |Jobs|24/02/1955|636.527.310-00|(34) 2774-1421|steve@alienigenadev.com|https://pt.wikipedia.org/wiki/Steve_Jobs
+Mark |Elliot Zuckerberg|14/05/1984|181.302.440-55|(83) 3348-0214|mark@alienigenadev.com|https://pt.wikipedia.org/wiki/Mark_Zuckerberg
+Zhang |Yiming|10/04/1982|225.499.040-36|(91) 2666-6426|zhang@alienigenadev.com|https://pt.wikipedia.org/wiki/Zhang_Yiming
+ William |Henry Gates III |28/10/1955|249.194.040-00|(24) 3548-3456|william@alienigenadev.com|https://pt.wikipedia.org/wiki/Bill_Gates
+Linus |Benedict Torvalds|28/12/1969|411.550.360-26|(51) 2254-7370|linus@alienigenadev.com|https://pt.wikipedia.org/wiki/Linus_Torvalds
